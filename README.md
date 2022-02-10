@@ -1,7 +1,7 @@
 # VSRSample
 Vertical Slice Architecture + UOW Repository Pattern
 
-I created my small architecture sample for beginners.
+I created my small architecture sample for beginners. Mainly for architecture design, not UI.
 
 I prefer less coding and keep everything simple and short.
 
