@@ -1,0 +1,32 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Areas\Backend\" />
+    <Folder Include="Areas\Frontend\Features\Home\css\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="DatatablesParser-core" Version="1.5.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="6.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\VSRSample.Application\VSRSample.Application.csproj" />
+    <ProjectReference Include="..\VSRSample.Domain\VSRSample.Domain.csproj" />
+    <ProjectReference Include="..\VSRSample.Persistence\VSRSample.Persistence.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Update="Areas\Frontend\Features\Home\Views\Index.cshtml">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+  </ItemGroup>
+
+</Project>

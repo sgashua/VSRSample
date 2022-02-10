@@ -1,0 +1,12 @@
+C:\Users\tagan_chua\source\repos\VSRSample\VSRSample.Domain\bin\Debug\net6.0\VSRSample.Domain.deps.json
+C:\Users\tagan_chua\source\repos\VSRSample\VSRSample.Domain\bin\Debug\net6.0\VSRSample.Domain.dll
+C:\Users\tagan_chua\source\repos\VSRSample\VSRSample.Domain\bin\Debug\net6.0\ref\VSRSample.Domain.dll
+C:\Users\tagan_chua\source\repos\VSRSample\VSRSample.Domain\bin\Debug\net6.0\VSRSample.Domain.pdb
+C:\Users\tagan_chua\source\repos\VSRSample\VSRSample.Domain\obj\Debug\net6.0\VSRSample.Domain.csproj.AssemblyReference.cache
+C:\Users\tagan_chua\source\repos\VSRSample\VSRSample.Domain\obj\Debug\net6.0\VSRSample.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tagan_chua\source\repos\VSRSample\VSRSample.Domain\obj\Debug\net6.0\VSRSample.Domain.AssemblyInfoInputs.cache
+C:\Users\tagan_chua\source\repos\VSRSample\VSRSample.Domain\obj\Debug\net6.0\VSRSample.Domain.AssemblyInfo.cs
+C:\Users\tagan_chua\source\repos\VSRSample\VSRSample.Domain\obj\Debug\net6.0\VSRSample.Domain.csproj.CoreCompileInputs.cache
+C:\Users\tagan_chua\source\repos\VSRSample\VSRSample.Domain\obj\Debug\net6.0\VSRSample.Domain.dll
+C:\Users\tagan_chua\source\repos\VSRSample\VSRSample.Domain\obj\Debug\net6.0\ref\VSRSample.Domain.dll
+C:\Users\tagan_chua\source\repos\VSRSample\VSRSample.Domain\obj\Debug\net6.0\VSRSample.Domain.pdb

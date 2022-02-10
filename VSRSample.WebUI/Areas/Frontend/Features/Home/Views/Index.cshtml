@@ -1,0 +1,27 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="row">
+    <div class="form-group col-12">
+        <input id="txtName" type="text" class="form-control" placeholder="Search company name..." />
+    </div>
+    <div class="form-group col-12 my-2">
+        <a class="btn btn-primary" onclick="Save();"><i class="fa fa-plus me-2"></i>Add company</a>
+    </div>
+    <div class="form-group col-12">
+        <table class="table table-bordered"></table>
+    </div>
+</div>
+@section Style {
+    <link rel="stylesheet" href="//cdn.datatables.net/1.11.4/css/jquery.dataTables.min.css" />
+}
+@section Scripts {
+    <script>
+        var SaveURL = '@Url.Action("Save")';
+        var DeleteURL = '@Url.Action("Delete")';
+        var PopulateURL = '@Url.Action("Populate")';
+    </script>
+    <script src="//cdn.datatables.net/1.11.4/js/jquery.dataTables.min.js"></script>
+    <script src="~/Areas/Frontend/Features/Home/js/index.js" asp-append-version="true"></script>
+}

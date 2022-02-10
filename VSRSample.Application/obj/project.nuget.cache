@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "J4OtWxN5EDlD3mSO47D9wS74LiOnNd3w7wDm86bNhiJ23zsgw+XP0u7iiHJsvv07o/poMZSdbpdTF9GVyrfG8g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tagan_chua\\source\\repos\\VSRSample\\VSRSample.Application\\VSRSample.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tagan_chua\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
